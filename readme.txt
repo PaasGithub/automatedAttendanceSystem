@@ -2,6 +2,8 @@
 
 This applied capstone project aims to improve attendance taking in tertiary institutions (specifically Ashesi University) by creating an automated attendance system that uses face recognition and QR code technology. The system employs a two-step authentication process to mark students present, which makes it more difficult for dishonest students to bypass attendance tracking
 
+Once set up and installation is complete, the program can be run via the [arrangedCode.py] for the student side or [adminWindow.py] for the admin side. 
+
 ## Authors
 
 - [@PaaKwesiAddae](https://github.com/Ashesi-Org/attendaceSystem_PaaKwesiAddae.git)
@@ -10,7 +12,7 @@ This applied capstone project aims to improve attendance taking in tertiary inst
 ## Installation
 
 To run this program successfully you must have the folder
-- [attendaceSystem_PaaKwesiAddae](https://github.com/Ashesi-Org/attendaceSystem_PaaKwesiAddae)
+- [attendaceSystem_PaaKwesiAddae]
 
 Or a directory containing the following files within it:
 
